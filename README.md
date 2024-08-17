@@ -4,4 +4,4 @@ The repository contains all the references used for tutorials conducted by [Shre
 
 Contents:
 - [Langchain Concepts](/langchain_concepts.ipynb)
-- [Retrieval Augmented Generation](/RAG_ChatPDF)
+- [Retrieval Augmented Generation with Langchain](/RAG_ChatPDF)
