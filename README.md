@@ -1,7 +1,7 @@
-# CS6803-Topics-In-NLP
+# CS6803: Topics In NLP Tutorials
 
 The repository contains all the references used for tutorials conducted by [Shrey](https://shreysatapara.github.io) for CS6803-Topics-In-NLP at Indian Institute of Technology Hyderabad.
 
-Contents:
-- [Langchain Concepts](/langchain_concepts.ipynb)
+Content:
+- [Langchain Components](/Langchain_Components.ipynb)
 - [Retrieval Augmented Generation with Langchain](/RAG_ChatPDF)
